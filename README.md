@@ -1,2 +1,2 @@
-# UBC440540_Project
-Final project for UBC CPSC 440/540 2021
+# W20 UBC 440/540 Final Project
+The project report is provided here.
